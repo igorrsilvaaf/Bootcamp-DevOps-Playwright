@@ -17,6 +17,3 @@ UTILIZAR PROTEÇÃO DE USUÁRIO:
  "password": "sua senha"
 }
 ```
-
-Quer ser PRO em pipelines e testes de software? 
-https://masterclass.qazando.com.br/
